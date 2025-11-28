@@ -1,0 +1,10 @@
+name = "flana-api"
+compatibility_date = "2026-05-01"
+
+[[kv_namespaces]]
+binding = "KV_VIEWS"
+id = "kv_views"
+
+[[kv_namespaces]]
+binding = "KV_SCORES"
+id = "kv_scores"
